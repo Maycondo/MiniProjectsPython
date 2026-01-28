@@ -1,4 +1,6 @@
 
+# Page 27 from the book "Grokking Algorithms" by Aditya Bhargava 
+# Pagina 27 do livro "Entendendo Algoritmos" por Aditya Bhargava
 
 # Binary Search Implementation in Python # Pequisa Binaria implementacao em Python
 def BinarySearch(list, item):
